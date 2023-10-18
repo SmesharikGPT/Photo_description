@@ -1,0 +1,6 @@
+.DS_Store
+images_test_vektors.npy
+images_vektors.npy
+text_features.npy
+data/test_images/
+data/train_images/
